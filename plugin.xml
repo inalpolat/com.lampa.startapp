@@ -17,7 +17,7 @@
     <platform name="android">
         <config-file target="res/xml/config.xml" parent="/*">
             <feature name="startApp">
-                <param name="android-package" value="com.lampa.startapp.startApp"/>
+                <param name="android-package" value="com.lampa2.startapp.startApp"/>
             </feature>
         </config-file>
 
