@@ -1,11 +1,11 @@
 /**
-	com.lampa.startapp, ver. 6.1.6
-	https://github.com/lampaa/com.lampa.startapp
+	com.lampa2.startapp, ver. 6.1.6
+	https://github.com/lampaa/com.lampa2.startapp
 	
 	Phonegap plugin for check or launch other application in android device (iOS support).
-	bug tracker: https://github.com/lampaa/com.lampa.startapp/issues
+	bug tracker: https://github.com/lampaa/com.lampa2.startapp/issues
 */
-package com.lampa.startapp;
+package com.lampa2.startapp;
 
 import org.apache.cordova.CallbackContext;
 import org.apache.cordova.PluginResult;
