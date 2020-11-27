@@ -1,4 +1,4 @@
-cordova.define("com.lampa.startapp.startapp", function(require, exports, module) {
+cordova.define("com.lampa2.startapp.startapp", function(require, exports, module) {
 /**
 	com.lampa.startapp, ver. 6.1.4
 	https://github.com/lampaa/com.lampa.startapp
